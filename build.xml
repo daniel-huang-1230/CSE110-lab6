@@ -61,3 +61,4 @@
   <echo message="clean done" />
   </target>
 </project>
+<mkdir src/>
